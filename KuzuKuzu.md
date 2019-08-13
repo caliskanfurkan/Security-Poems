@@ -22,6 +22,7 @@ Inan, bu defa
 Anladım case’i, tövbeler ettim
 Ooofff ooofff
 SSL koy paketlere, streamlere
+Nibble nibble nibble
 
 13/8/2019
 
