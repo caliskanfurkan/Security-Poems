@@ -13,7 +13,7 @@ Analiz ettim, eridim
 Huntsız olamadım
 
 Işte nibble nibble geldim
-Dilediğince kapandım Bro loglara
+Dilediğince kapandım Zeek loglara
 Bu kez paketimi ateşe verdim
 Yaktım da geldim
 Ister incele, ister drop et
