@@ -1,4 +1,6 @@
-```Bak! Capture oldu paketim maketim
+```Python
+
+Bak! Capture oldu paketim maketim
 Olmadı, carve edemedim
 Zor! Follow tcp stream çok zor
 Alışamadım
